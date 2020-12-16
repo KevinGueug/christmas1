@@ -1,0 +1,38 @@
+*
+{
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+html{
+    background-image: url("https://images.all-free-download.com/images/graphicthumb/red_christmas_horizontal_background_310556.jpg");
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+img{
+    height:380px;
+    padding-top:15px;
+}
+
+button{
+    border-radius:50px;
+    width: 100px;
+    height: 100px;
+    font-family: 'Mountains of Christmas', cursive;
+}
+h3{
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+p{
+    margin-top: 170px;
+    font-size: 9px;
+}
+
+@media only screen and (min-width: 768px)
+
